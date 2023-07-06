@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+      font-family: 'sans-serif', serif;
+      background-color: #534040;
+    }
+    h1 {
+      text-align: center;
+      color #faf5f5;
+      margin-bottom: 30px;
+    } ol {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: display-legacy;
+      flex-wrap: wrap;
+      justify-content: top left corner;
+    }
+    li {
+      text-align: center;
+      margin: 10px;
+      overflow: hidden;
+    }
+    img {
+      width: 250px;
+      height: 200px;
+      object-fit: cover;
+      justify-content: top center;
+    }
+    li:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 10px rgba(245, 240, 240, 0.3);
+    }
+    </style>
+  <title>My Travel bucket list </title>
+</head>
+<body>
+    <h1>Future Plan</h1>
+    <p>When i become a<em><b> millionaire</b></em><br>
+    I will love to visit the countries listed below<br>
+    <ol>
+         <li>In Japan I'll love to go <b>Kamikochi Nagano</b><br></li>
+         <img src="kn.jpg" alt="kn"><br>
+         <li><b>Shirakawago</b><br></li> 
+              <img src="shirakawago.jpg"alt="shirakawago.jpg"><br>
+         <li><b>Himeji castle</b><br></li>
+            <img src="himejicastle.jpg"alt="himejicastle.jpg"><br>
+         <li><b>Yakushima kagoshima</b><br></li>
+           <img src="yakushimakagoshima.jpg"alt="yakushimakagoshima.jpg"><br>
+         <li> In China I'll go see <b>The Great Wall Of China</b><br></li>
+               <img src="greatwallofchina.jpg"alt="greatwallofchina.jpg"><br>
+         <li><b>Yu Garden Shanghai</b><br></li>
+               <img src="shanghai.jpg"alt="shanghai.jpg"><br>
+         <li>In Thailand <b>Bangkok</b><br></li>
+               <img src="thailandbandkok.jpg"alt="thailandbandkok.jpg"><br>
+         <li> <b>Chiang Rai</b><br></li>
+               <img src="chiangrai.jpg"alt="chiangrai.jpg"><br>
+         <li>In Egypt<b>Wadi EL-Natrun</b><br></li>
+               <img src="wadiel-natrunegypt.webp"alt="wadiel-natrunegypt.webp"><br>
+         <li><b>Alexandria</b><br></li>
+               <img src="alexandriaegypt.webp"alt="alexandriaegypt.webp"><br>
+         <li>In Hong Kong<b>Symphony Of Light</b><br></li>
+               <img src="symphonyoflighthongkong.webp"alt="symphonyoflighthongkong.webp"><br>
+         <li><b>The Peak</b><br></li>
+               <img src="hongkongthepeak.webp"alt="hongkongthepeak.webp"><br>
+         <li>Then Korea to explore a magnificent view of the country from <b>Seoul sky</b><br></li>
+               <img src="seoulsky.jpg"alt="seoulsky.jpg"><br>
+         <li><b>1 Million Dance (just to awaken my dancing skills)</b><br></li>
+               <img src="imilliondance.jpg"alt="imilliondance.jpg"><br>
+         <li>And Los Angeles California to see the <b>Museum Hop Along miracle Mile</b><br></li>
+               <img src="museumhop.jpg"alt="museumhop.jpg"><br>
+         <li> <b>DisneyLand</b><br></li>
+               <img src="Disneyland.jpg"alt="Disneyland.jpg"><br>
+         <li> Finally France (Paris)to see the <b>Eiffel Tower</b><br> </li>
+               <img src="eiffeltower.jpg"alt="eiffeltower.jpg"><br> 
+    </ol>
+   So those are the places I'd love to go on for vacation when I become rich <br>
+   Thank you for scrolling through <br>
+   Bye </p>
+</body>
+</html>
