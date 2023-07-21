@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>3018 CNC Machine Information</title>
+  <style>
+    body {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    p {
+      color: #666;
+    }
+
+    .image-container
+     { width: 300px;/180/ 
+        height: auto;/180/
+    }
+
+    {
+      <background-color> #f2f2f2;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>3018 CNC Machine</h1>
+
+  <div class="section">
+    <h2>CNC Engraving Machines</h2>
+    <p>
+      CNC (Computer Numerical Control) engraving machines are computer-controlled machines used for precision engraving and carving on various materials such as wood, metal, plastic, and more. They utilize cutting tools, such as end mills or router bits, to remove material and create intricate designs or patterns based on digital instructions.
+    </p>
+    <p>
+      CNC engraving machines require digital designs in the form of CAD (Computer-Aided Design) files. These designs are then converted into machine-readable code using CAM (Computer-Aided Manufacturing) software. Various software options are available for creating or importing designs and generating toolpaths.
+    </p>
+    <p></p>
+  </div>
+
+  <div class="section">
+    <h2>Components of the CNC Machine</h2>
+    <ul>
+      <li>Frame</li>
+      <li>Worktable</li>
+      <li>Spindle</li>
+      <li>Axes and Motion Control</li>
+      <li>Motor and Drive System</li>
+      <li>Control System</li>
+      <li>Coolant System</li>
+      <li>Power Supply</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Inkscape</h2>
+    <p>
+      Inkscape is a free and open-source vector graphics editor that provides a wide range of features for creating and editing scalable vector-based designs. It is a popular software choice for designers, artists, and hobbyists, offering powerful tools and capabilities.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>LaserGRBL</h2>
+    <p>
+      LaserGRBL is a software specifically designed for controlling laser engraving machines. It offers features and functionality tailored to the needs of laser engraving operations. LaserGRBL generates G-code instructions based on your designs or images, which the laser engraving machine follows to execute the desired engraving paths. It supports various file formats, including vector graphics (SVG, DXF) and raster images (BMP, PNG, JPEG), allowing you to import and convert them into laser-compatible G-code.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Image File Formats Supported</h2>
+    <ul>
+      <li>PNG</li>
+      <li>JPEG/JPG</li>
+      <li>BMP</li>
+      <li>TIFF</li>
+      <li>SVG</li>
+      <li>DXF</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Tracing a Live Image</h2>
+    <img src="baby.jpg" alt="Image Description">  <img src="image17.jpg" alt="Image Description">
+    <p>i greyscaled a live image with inkscape and pinted it with laser GRBL.</p>
+    <p>That's the process I used in tracing a life image.</p>
+  </div>
+
+  <p>Thank you.</p>
+</body>
+</html>
+                                                
